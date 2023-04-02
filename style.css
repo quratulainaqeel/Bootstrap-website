@@ -1,0 +1,11 @@
+.zoom:hover{
+    transform: scale(1.1);
+}
+.zoomout:hover{
+    transform: scale(0.9);
+}
+.link:hover{
+    text-decoration: underline solid;
+    text-decoration-color: black;
+    text-underline-offset: 8px;
+}
